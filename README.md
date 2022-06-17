@@ -14,7 +14,7 @@ The approaches developed in this project will benefit all of the research being 
 
 The approaches developed will be detailed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU013_01: A comprehensive characterisation of COVID-19 from a nationwide linked electronic health record cohort of 56 million people: phenotypes, severity, pandemic waves, vaccination & trajectories](https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping)
+* [CCU013_01: COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records](https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping)
 
 > Links to repositories for additional outputs will follow in due course.
 
